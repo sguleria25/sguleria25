@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm abc</h1>
+<h1 align="center">Hi 👋, I'm Sukhmani Guleria</h1>
 <h3 align="center">A passionate B.Tech CSE student learning Web Development and exploring Programming</h3>
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 ---
 
-### 🧠 Currently Learning
+### 📚 Exploring
 - Full-Stack Web Development
 - Building personal projects using Flask and MySQL
 - Strengthening Programming and Data Structures
@@ -39,11 +39,10 @@
 ---
 
 ### 📫 How to reach me
-- 📧 Email: *youremail@example.com*  
+- 📧 Email: *guleriasukhmani25@gmail.com*  
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
 
 ---
 
-### ⚡ Fun Fact:
-> I love writing clean code and turning ideas into real web applications.
+
 
