@@ -28,7 +28,7 @@
 
 ### 📫 How to reach me
 - 📧 Email: *guleriasukhmani25@gmail.com*  
-- 💼 LinkedIn: [Check out here!](https://www.linkedin.com](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B3SOcWMbNTXu2UpC7DNCjoQ%3D%3D)
+- 💼 LinkedIn: [Check out here!]([https://www.linkedin.com](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BEt0yF9xwT3qPscAYB5KbNA%3D%3D))
 
 
 ---
