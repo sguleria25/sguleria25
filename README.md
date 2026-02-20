@@ -1,7 +1,5 @@
-<!-- <h1 align="center">Hi 👋, I'm Sukhmani Guleria</h1>
-<h3 align="center">A passionate B.Tech CSE student learning Web Development and exploring Programming</h3> -->
-# 💫 About Me:
-Hi, I’m Sukhmani Guleria 👋<br>I’m a passionate B.Tech CSE student, exploring Web Development, Programming, and AI. I enjoy building projects that solve real problems, learning new technologies, and sharing knowledge through study content. Currently, I’m focused on full-stack development using Flask, MySQL, and modern web technologies.
+<h1 align="center">Hi 👋, I'm Sukhmani Guleria</h1>
+<br>I’m a passionate B.Tech CSE student, exploring Web Development, Programming, and AI. I enjoy building projects that solve real problems, learning new technologies, and sharing knowledge through study content. Currently, I’m focused on full-stack development using Flask, MySQL, and modern web technologies.
 
 ---
 
