@@ -34,6 +34,20 @@
 
 ---
 
+### 💻 Projects
+- **📚 College Notes Website** – A platform for students to access organized study notes. [Live Demo](#) | [GitHub](#)
+- **📝 Placement Tracker** – Personal dashboard to track job applications and preparation. [Live Demo](#) | [GitHub](#)
+- **🧩 Quiz / Mock Test Platform** – A web app for online quizzes with scoring system. [GitHub](#)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" />
+</p>
+
+----
+
 ### 📫 How to reach me
 - 📧 Email: [Mail here!](mailto:guleriasukhmani25@gmail.com)
 - 💼 LinkedIn: [Check out here!](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BEt0yF9xwT3qPscAYB5KbNA%3D%3D)
