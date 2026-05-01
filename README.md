@@ -13,12 +13,4 @@
 - Building personal projects using Flask and MySQL
 - Strengthening Programming and Data Structures
 
-----
-
-### 📫 How to reach me
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abcd@gmail.com) 
-
 ---
-
-
-
