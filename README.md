@@ -13,24 +13,10 @@
 - Building personal projects using Flask and MySQL
 - Strengthening Programming and Data Structures
 
----
-
-### 💻 Projects
-- **📚 College Notes Website** – A platform for students to access organized study notes. [Live Demo](#) | [GitHub](#)
-- **📝 Placement Tracker** – Personal dashboard to track job applications and preparation. [Live Demo](#) | [GitHub](#)
-- **🧩 Quiz / Mock Test Platform** – A web app for online quizzes with scoring system. [GitHub](#)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" />
-</p>
-
 ----
 
 ### 📫 How to reach me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abcd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abcd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abcd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abcd@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abcd@gmail.com) 
 
 ---
 
